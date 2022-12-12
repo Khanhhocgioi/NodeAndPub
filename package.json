@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "myserver.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jade": "^1.11.0"
   },
   "devDependencies": {},
